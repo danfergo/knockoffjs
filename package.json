@@ -1,0 +1,24 @@
+{
+  "name": "knockoffjs",
+  "version": "0.0.1",
+  "description": "A knock off version of frameworks like Angular",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "css-loader": "^0.28.7",
+    "exports-loader": "^0.6.4",
+    "jquery": "^3.2.1",
+    "node-sass": "^4.5.3",
+    "popper.js": "^1.12.5",
+    "postcss-loader": "^2.0.6",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danfergo",
+  "license": "ISC"
+}
